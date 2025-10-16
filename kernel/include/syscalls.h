@@ -1,0 +1,7 @@
+#ifndef SYSCALLS_H
+#define SYSCALLS_H
+#define SYSCALL_WRITE 1
+#define SYSCALL_READ 2
+#define SYSCALL_GET_LOG 3
+#define MSG_KEYBOARD_INPUT 100
+#endif
