@@ -1,4 +1,4 @@
-```markdown
+
 # CoreX-microkernel
 
 A UNIX-like microkernel for the i386 / i686 architecture with an included Doom platform glue so you can run Doom (or port it) on the kernel.
